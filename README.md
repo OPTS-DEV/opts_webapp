@@ -22,7 +22,7 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 
 
 
-####> 初始化步骤
+#### 初始化步骤
 > 前提：已安装node 、vue-cli、webpack
 
 1、git clone  拉取代码
@@ -38,7 +38,7 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 6、npm run dev  或者 windows下运行 OPTS_WEBAPP_STARTER.bat
 
 
-####> 说明
+#### 说明
 ``` bash
 1、src/Global.vue 存放全局变量，例如请求地址前缀
 
